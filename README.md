@@ -1,10 +1,6 @@
 # DevOps-Notes
 
-All pdf notes in this repo do not belong to me.
+The PDF notes in this repository are not my own. Most of them were either already available publicly online or shared by their authors on LinkedIn, which is how I obtained them. I am grateful to all the authors for making these notes available.
 
-Almost all these notes were publicly available online or were shared by the author themselves on LinkedIn, that is how I have access to them.
-
-I am grateful to all the authors on these notes.
-
-I refer them to upskill myself.
+I use these notes as a reference to enhance my own skills.
 
