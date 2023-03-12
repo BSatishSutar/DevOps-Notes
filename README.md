@@ -23,6 +23,10 @@ This repository contains the following notes:
 
 If you'd like to contribute to this repository, you can fork the repository and submit a pull request. Please make sure to follow the repository structure and write clean, well-documented notes.
 
+## Disclaimer
+
+All the notes in this repository were either publicly available online or shared by the respective authors on a public platform. I do not claim any ownership or authorship of the notes in this repository, and I cannot guarantee the accuracy or completeness of the information provided.
+
 ## Conclusion
 
 DevOps is an exciting and rapidly evolving field that requires a wide range of skills and knowledge. I hope these notes will help you on your DevOps journey!
