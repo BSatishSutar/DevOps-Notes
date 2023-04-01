@@ -29,4 +29,4 @@ All the notes in this repository were either publicly available online or shared
 
 ## Conclusion
 
-DevOps is an exciting and rapidly evolving field that requires a wide range of skills and knowledge. I hope these notes will help you on your DevOps journey!
+DevOps is an exciting and rapidly evolving field that requires a wide range of skills and knowledge. I hope these notes will help you on your DevOps journey.
